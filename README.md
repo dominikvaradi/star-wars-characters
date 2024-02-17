@@ -1,5 +1,7 @@
 # Star Wars Characters
 
+**Live demo available [here](https://star-wars-characters.dominikvaradi.hu/).**
+
 This is a simple web application that displays a list of Star Wars characters. It is built using Next.js 14 and Tailwind CSS. The data is fetched from the [Star Wars API](https://swapi.dev/).
 
 This is a [Next.js 14](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
