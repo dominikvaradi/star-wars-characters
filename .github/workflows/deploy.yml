@@ -54,6 +54,6 @@ jobs:
         envs: GHCR_USERNAME, GHCR_TOKEN
         script: |
           echo $GHCR_TOKEN | docker login ghcr.io -u $GHCR_USERNAME --password-stdin
-          cd star-wars-character
+          cd star-wars-characters
           docker compose pull
           docker compose up -d
